@@ -1,1 +1,0 @@
-# Urban-Detection-UI-prototype
